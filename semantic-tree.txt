@@ -1,0 +1,26 @@
+body
+├── header
+│   ├── h1
+│   ├── p
+│   └── nav
+│       └── ul
+│           └── li → a
+├── main
+│   ├── section (Top Story)
+│   │   └── article
+│   ├── section (Latest News)
+│   │   ├── article
+│   │   └── article
+│   ├── section (Technology)
+│   │   ├── article
+│   │   └── article
+│   ├── section (Sports)
+│   │   ├── article
+│   │   └── article
+│   └── aside (Most-Read Stories)
+│       └── ol
+│           └── li → a
+└── footer
+    ├── h2
+    ├── p → a
+    └── p
